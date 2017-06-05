@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "main.app", 
+        "aws_region": "eu-west-1", 
+        "profile_name": "default", 
+        "s3_bucket": "zappa-7j6n9njma"
+    }
+}
