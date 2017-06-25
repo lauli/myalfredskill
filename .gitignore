@@ -163,4 +163,6 @@ ENV/
 # mkdocs documentation
 /site
 
+zappa_settings.json
+
 # End of https://www.gitignore.io/api/python,pycharm
