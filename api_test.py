@@ -36,7 +36,9 @@ def make_call_to_myalfred_api_2(json_data):
 
     except requests.HTTPError as error:
         r = error.read()
-    return r
+        return r
+
+    return data
 
 eventTitle = "Standard activity"
 #time in milliseconds!
