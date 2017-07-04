@@ -25,8 +25,8 @@ de_stop  = "OK. Noch einen schönen Tag!"
 
 # -------------------------------------------------------------------------- REPROMPTS
 
-eng_hobby_reprompt  = "You could for example say: 'I want to study' or 'make an appointment to go to the gym'."
-de_hobby_reprompt   = "Du könntest zum Beispiel sagen 'Ich möchte lernen' oder 'finde einen Termin um einkaufen zu gehen'."
+eng_hobby_reprompt  = "You could for example say: 'I want to study'."
+de_hobby_reprompt   = "Du könntest zum Beispiel sagen 'Ich möchte lernen'."
 
 eng_when_reprompt = "You could choose for example: 'this week' or 'next month"
 de_when_reprompt  = "Du könntest zum Beispiel sagen 'nächste Woche würde passen'."
